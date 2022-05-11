@@ -8,6 +8,9 @@ public class HealthTrackerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HealthTrackerApplication.class, args);
+		System.out.println("Hello");
 	}
+
+
 
 }
